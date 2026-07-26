@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Malaravan R</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [News Aggregators](https://github.com/Malaravan236/News-Aggregator.git)
+- 🔭 I’m currently working on [E-Commerce Website](https://github.com/Malaravan236/Natrix-E-Commerce-Website.git)
 
 - 🌱 I’m currently learning **Django**
-
-- 👨‍💻 All of my projects are available at [https://malaravan236.wixsite.com/malaravan-portfolio](https://malaravan236.wixsite.com/malaravan-portfolio)
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **malaravan236@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGA9SEbJwM/YH41km46RgjOQru3Ls4Q4A/edit](https://www.canva.com/design/DAGA9SEbJwM/YH41km46RgjOQru3Ls4Q4A/edit)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DFHYfhsfhFzUzQ9jqrvoEU689HHgP3mP/view?usp=sharing](https://drive.google.com/file/d/1DFHYfhsfhFzUzQ9jqrvoEU689HHgP3mP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
